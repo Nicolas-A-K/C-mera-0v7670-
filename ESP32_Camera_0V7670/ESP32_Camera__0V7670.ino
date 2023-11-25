@@ -42,9 +42,9 @@
 //*********************** definições wifi *************************
 
 #define ssidAP "ESP32_AP"
-#define passwordAP "LetMeInPeace"
-#define ssidWN "TeutoNET_Deisi"
-#define passwordWN "4JZX2FQQYI"
+#define passwordAP "123456789"
+#define ssidWN "Your internet name"
+#define passwordWN "your internte password"
 
 WiFiServer server(80);
 unsigned char pix = 0;
